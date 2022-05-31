@@ -40,3 +40,7 @@ door0_info.json
     └── 0
 ```
 The json file contains stl name, 3D position of joints, joint axis, axis range of joint, and index of parent link. Since the base link does not have a parent link and joint, the root_idx of the base link is null, and other information is unnecessary to generate new configurations.
+
+![Chain Overview](https://github.com/cjg429/KinArt3D_dataset/blob/main/images/figure3.png)
+
+**Figure 3. The kinematic chain of an arm object visualization.**
