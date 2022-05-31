@@ -15,4 +15,4 @@ We first manually created a kinematic model for each object and prepared a mesh 
 
 ## models & models_json
 
-[This repo](https://github.com/cjg429/KinArt3D_dataset/tree/main/models) contains mesh file of all objects in KinArt3D dataset.
+[This repo](https://github.com/cjg429/KinArt3D_dataset/tree/main/models) contains mesh files(.stl) of all objects in the kinArt3D dataset.
