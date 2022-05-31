@@ -20,18 +20,22 @@ We first manually created a kinematic model for each object and prepared a mesh 
 door0_info.json
 ├── axis
 │   ├── [0.0, 0.0, 1.0]
-│   └── [0.0, 0.0, 1.0]
+│   ├── [0.0, 0.0, 1.0]
 │   └── [0.0, 0.0, 1.0]
 ├── stl
-│   ├── file21.ext
-│   ├── file22.ext
-│   └── file23.ext
+│   ├── "link0.stl"
+│   ├── "link1.stl"
+│   └── "link2.stl"
 ├── axis_range
-│   ├── file21.ext
-│   ├── file22.ext
-│   └── file23.ext
-└──  axis_range
-    ├── file21.ext
-    ├── file22.ext
-    └── file23.ext 
+│   ├── [0.0, 0.0]
+│   ├── [-1.5707963267948966, 1.5707963267948966]
+│   └── [-1.5707963267948966, 1.5707963267948966]
+├── joint
+│   ├── [0.0, 0.0, 0.0]
+│   ├── [-28.0, 0.0, 0.0]
+│   └── [28.0, 0.0, 0.0]
+└── root_idx
+    ├── null
+    ├── 0
+    └── 0
 ```
