@@ -15,4 +15,4 @@ We first manually created a kinematic model for each object and prepared a mesh 
 
 ## models & models_json
 
-[This repo](https://github.com/cjg429/KinArt3D_dataset/tree/main/models) contains mesh files(.stl) of all objects in the kinArt3D dataset. Each object folder contains a mesh file for each link of the object. In most cases, "link0" is the base link in the kinematic chain of the object.
+[This repo](https://github.com/cjg429/KinArt3D_dataset/tree/main/models) contains mesh files(.stl) of all objects in the kinArt3D dataset. Each object folder contains a mesh file for each link of the object. In most cases, 'link0' is the base link in the kinematic chain of the object.
