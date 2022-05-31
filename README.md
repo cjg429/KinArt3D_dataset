@@ -19,13 +19,19 @@ We first manually created a kinematic model for each object and prepared a mesh 
 ```
 door0_info.json
 ├── axis
-│   ├── file11.ext
-│   └── file12.ext
+│   ├── [0.0, 0.0, 1.0]
+│   └── [0.0, 0.0, 1.0]
+│   └── [0.0, 0.0, 1.0]
 ├── stl
 │   ├── file21.ext
 │   ├── file22.ext
 │   └── file23.ext
-├── 
-├──
-└── 
+├── axis_range
+│   ├── file21.ext
+│   ├── file22.ext
+│   └── file23.ext
+└──  axis_range
+    ├── file21.ext
+    ├── file22.ext
+    └── file23.ext 
 ```
