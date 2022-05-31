@@ -43,4 +43,4 @@ The json file contains stl name, 3D position of joints, joint axis, axis range o
 
 ![Chain Overview](https://github.com/cjg429/KinArt3D_dataset/blob/main/images/figure3.png)
 
-**Figure 3. Generated configurations of an arm object using its stl and json file.**
+**Figure 3. Generated configurations of an arm object using its stl and json files.**
