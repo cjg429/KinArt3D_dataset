@@ -39,3 +39,4 @@ door0_info.json
     ├── 0
     └── 0
 ```
+The json file contains stl name, 3D position of joints, joint axis, axis range of joint, and index of parent link.
